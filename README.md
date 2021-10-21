@@ -1,9 +1,4 @@
-# mastering-git-august
-## header
-### header 3
-
-Removed3
-Removed4
-* New Line
-> New Line
-##### lines
+# This is our first repo
+## we created some files
+- scrypt.sh
+- python.py
